@@ -11,4 +11,6 @@ nicoleoyama/nicoleoyama is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nicoleoyama&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nicoleoyama&theme=white)
+![Profile View Counter](https://komarev.com/ghpvc/?username=nicoleoyama)
+
