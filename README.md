@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nicoleoyama
-- 👀 I’m interested in web design and art
+- 👀 I’m interested in web design, crochet, art.
 - 🌱 I’m currently learning everything again
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me twitter @nicoleoyama
