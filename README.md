@@ -3,6 +3,7 @@
 - 💻 I’m currently learning everything again
 - 🖹 I'm currently working on my portfolio website
 - 📫 How to reach me on twitter @nicoleoyama
+- 📺 I'm currently watching: The Last of Us
 
 ---
 
