@@ -1,8 +1,13 @@
  👋 Hi, I’m @nicoleoyama
+ 
 👀 I’m interested in web design, crochet, art.
+
 💻 I’m currently learning everything again
+
 🖹 I'm currently working on my portfolio website
+
 📫 How to reach me on twitter @nicoleoyama
+
 📺 I'm currently watching: The Witcher again ahead of The Witcher Season 3
 
 ---
