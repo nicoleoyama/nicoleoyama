@@ -12,9 +12,10 @@
 
 ---
 
-my stats:
-
+## My stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nicoleoyama&theme=white)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=nicoleoyama)
 
+## 🛠 Skills
+HTML, CSS, learning more about Javascript and React
