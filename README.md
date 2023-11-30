@@ -8,7 +8,7 @@
 
 📫 How to reach me on twitter @nicoleoyama
 
-📺 I'm currently watching: Loki Season 2
+📺 I'm currently watching: The Simpsons Christmas Episodes
 
 ---
 
