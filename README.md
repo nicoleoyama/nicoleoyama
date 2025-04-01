@@ -6,9 +6,9 @@
 
 🖹 I'm currently working on my portfolio website
 
-📫 How to reach me on twitter @nicoleoyama
+📫 How to reach me on twitter @nicoleoyama or instagram
 
-📺 I'm currently watching: The Simpsons Christmas Episodes
+📺 I'm currently watching: The Last of Us Season 2 coming April 13
 
 ---
 
