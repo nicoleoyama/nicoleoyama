@@ -19,3 +19,6 @@
 
 ## 🛠 Skills
 HTML, CSS, learning more about Javascript and React
+
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A3484ENT)
