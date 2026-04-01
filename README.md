@@ -8,14 +8,9 @@
 
 📫 How to reach me on twitter @nicoleoyama or instagram
 
-📺 I'm currently watching: The Last of Us Season 2 coming April 13
+📺 I'm currently watching: One Piece Live Action Season 2
 
----
-
-## My stats
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nicoleoyama&theme=white)
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=nicoleoyama)
+--- 
 
 ## 🛠 Skills
 HTML, CSS, learning more about Javascript and React
