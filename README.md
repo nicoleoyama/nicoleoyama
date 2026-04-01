@@ -22,7 +22,7 @@ HTML, CSS, learning more about Javascript and React
 Tech:
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mac" />
+    <img src="https://skillicons.dev/icons?i=apple" />
   </a>
  
 
