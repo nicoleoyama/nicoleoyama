@@ -14,10 +14,23 @@
 
 ## 🛠 Skills
 HTML, CSS, learning more about Javascript and React
-<p align="center">
+ 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,notion,webflow,svg,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,notion,wordpress,webflow,svg,github" />
   </a>
-</p>
+ 
+Tech:
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mac" />
+  </a>
+ 
+
+
+Learning more about: 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=blender,bootstrap,jquery," />
+  </a>
+
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A3484ENT)
