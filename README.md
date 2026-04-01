@@ -26,8 +26,8 @@ Tech:
   </a>
  
 
-
 Learning more about: 
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=blender,bootstrap,jquery," />
   </a>
